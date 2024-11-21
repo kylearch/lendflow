@@ -14,6 +14,12 @@ return [
     |
     */
 
+    'nyt' => [
+        'app_id' => env('NYT_APP_ID'),
+        'key' => env('NYT_KEY'),
+        'secret' => env('NYT_SECRET'),
+    ],
+
     'postmark' => [
         'token' => env('POSTMARK_TOKEN'),
     ],

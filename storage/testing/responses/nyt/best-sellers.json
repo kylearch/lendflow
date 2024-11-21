@@ -1,0 +1,368 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2024 The New York Times Company.  All Rights Reserved.",
+  "num_results": 4,
+  "results": [
+    {
+      "title": "Finance and the Good Society",
+      "description": null,
+      "contributor": null,
+      "author": "Robert J. Shiller",
+      "contributor_note": null,
+      "price": "0.00",
+      "age_group": null,
+      "publisher": null,
+      "isbns": [
+        {
+          "isbn10": "0691154880",
+          "isbn13": "9780691154886"
+        }
+      ],
+      "ranks_history": [],
+      "reviews": [
+        {
+          "book_review_link": "",
+          "first_chapter_link": null,
+          "sunday_review_link": "https:\/\/www.nytimes.com\/2012\/06\/24\/books\/review\/finance-and-the-good-society-by-robert-j-shiller.html",
+          "article_chapter_link": null
+        }
+      ]
+    },
+    {
+      "title": "LORDS OF FINANCE",
+      "description": "How the four central bankers who dominated the post-World War I era pushed the global economy into the Great Depression by clinging to economic orthodoxy.",
+      "contributor": "by Liaquat Ahamed",
+      "author": "Liaquat Ahamed",
+      "contributor_note": "",
+      "price": "32.95",
+      "age_group": "",
+      "publisher": "Penguin Press",
+      "isbns": [
+        {
+          "isbn10": "0143116800",
+          "isbn13": "9780143116806"
+        }
+      ],
+      "ranks_history": [
+        {
+          "primary_isbn10": "0143116800",
+          "primary_isbn13": "9780143116806",
+          "rank": 33,
+          "list_name": "Paperback Nonfiction",
+          "display_name": "Paperback Nonfiction",
+          "published_date": "2011-01-23",
+          "bestsellers_date": "2011-01-09",
+          "weeks_on_list": 0,
+          "rank_last_week": 0,
+          "asterisk": 0,
+          "dagger": 0
+        },
+        {
+          "primary_isbn10": "0143116800",
+          "primary_isbn13": "9780143116806",
+          "rank": 31,
+          "list_name": "Paperback Nonfiction",
+          "display_name": "Paperback Nonfiction",
+          "published_date": "2010-11-21",
+          "bestsellers_date": "2010-11-07",
+          "weeks_on_list": 0,
+          "rank_last_week": 0,
+          "asterisk": 0,
+          "dagger": 0
+        },
+        {
+          "primary_isbn10": "0143116800",
+          "primary_isbn13": "9780143116806",
+          "rank": 34,
+          "list_name": "Paperback Nonfiction",
+          "display_name": "Paperback Nonfiction",
+          "published_date": "2010-10-17",
+          "bestsellers_date": "2010-10-03",
+          "weeks_on_list": 0,
+          "rank_last_week": 0,
+          "asterisk": 0,
+          "dagger": 0
+        },
+        {
+          "primary_isbn10": "0143116800",
+          "primary_isbn13": "9780143116806",
+          "rank": 34,
+          "list_name": "Paperback Nonfiction",
+          "display_name": "Paperback Nonfiction",
+          "published_date": "2010-09-26",
+          "bestsellers_date": "2010-09-12",
+          "weeks_on_list": 0,
+          "rank_last_week": 0,
+          "asterisk": 0,
+          "dagger": 0
+        },
+        {
+          "primary_isbn10": "0143116800",
+          "primary_isbn13": "9780143116806",
+          "rank": 28,
+          "list_name": "Paperback Nonfiction",
+          "display_name": "Paperback Nonfiction",
+          "published_date": "2010-09-19",
+          "bestsellers_date": "2010-09-05",
+          "weeks_on_list": 0,
+          "rank_last_week": 0,
+          "asterisk": 0,
+          "dagger": 0
+        },
+        {
+          "primary_isbn10": "0143116800",
+          "primary_isbn13": "9780143116806",
+          "rank": 28,
+          "list_name": "Paperback Nonfiction",
+          "display_name": "Paperback Nonfiction",
+          "published_date": "2010-09-12",
+          "bestsellers_date": "2010-08-29",
+          "weeks_on_list": 0,
+          "rank_last_week": 0,
+          "asterisk": 0,
+          "dagger": 0
+        },
+        {
+          "primary_isbn10": "0143116800",
+          "primary_isbn13": "9780143116806",
+          "rank": 25,
+          "list_name": "Paperback Nonfiction",
+          "display_name": "Paperback Nonfiction",
+          "published_date": "2010-09-05",
+          "bestsellers_date": "2010-08-22",
+          "weeks_on_list": 0,
+          "rank_last_week": 0,
+          "asterisk": 0,
+          "dagger": 0
+        },
+        {
+          "primary_isbn10": "0143116800",
+          "primary_isbn13": "9780143116806",
+          "rank": 30,
+          "list_name": "Paperback Nonfiction",
+          "display_name": "Paperback Nonfiction",
+          "published_date": "2010-08-29",
+          "bestsellers_date": "2010-08-15",
+          "weeks_on_list": 0,
+          "rank_last_week": 0,
+          "asterisk": 0,
+          "dagger": 0
+        },
+        {
+          "primary_isbn10": "0143116800",
+          "primary_isbn13": "9780143116806",
+          "rank": 30,
+          "list_name": "Paperback Nonfiction",
+          "display_name": "Paperback Nonfiction",
+          "published_date": "2010-08-22",
+          "bestsellers_date": "2010-08-08",
+          "weeks_on_list": 0,
+          "rank_last_week": 0,
+          "asterisk": 0,
+          "dagger": 0
+        },
+        {
+          "primary_isbn10": "0143116800",
+          "primary_isbn13": "9780143116806",
+          "rank": 28,
+          "list_name": "Paperback Nonfiction",
+          "display_name": "Paperback Nonfiction",
+          "published_date": "2010-08-15",
+          "bestsellers_date": "2010-08-01",
+          "weeks_on_list": 0,
+          "rank_last_week": 0,
+          "asterisk": 0,
+          "dagger": 0
+        },
+        {
+          "primary_isbn10": "0143116800",
+          "primary_isbn13": "9780143116806",
+          "rank": 28,
+          "list_name": "Paperback Nonfiction",
+          "display_name": "Paperback Nonfiction",
+          "published_date": "2010-08-01",
+          "bestsellers_date": "2010-07-18",
+          "weeks_on_list": 0,
+          "rank_last_week": 0,
+          "asterisk": 0,
+          "dagger": 0
+        },
+        {
+          "primary_isbn10": "0143116800",
+          "primary_isbn13": "9780143116806",
+          "rank": 32,
+          "list_name": "Paperback Nonfiction",
+          "display_name": "Paperback Nonfiction",
+          "published_date": "2010-07-18",
+          "bestsellers_date": "2010-07-04",
+          "weeks_on_list": 0,
+          "rank_last_week": 0,
+          "asterisk": 0,
+          "dagger": 0
+        },
+        {
+          "primary_isbn10": "0143116800",
+          "primary_isbn13": "9780143116806",
+          "rank": 33,
+          "list_name": "Paperback Nonfiction",
+          "display_name": "Paperback Nonfiction",
+          "published_date": "2010-07-11",
+          "bestsellers_date": "2010-06-27",
+          "weeks_on_list": 0,
+          "rank_last_week": 0,
+          "asterisk": 0,
+          "dagger": 0
+        },
+        {
+          "primary_isbn10": "0143116800",
+          "primary_isbn13": "9780143116806",
+          "rank": 18,
+          "list_name": "Paperback Nonfiction",
+          "display_name": "Paperback Nonfiction",
+          "published_date": "2010-07-04",
+          "bestsellers_date": "2010-06-20",
+          "weeks_on_list": 2,
+          "rank_last_week": 0,
+          "asterisk": 0,
+          "dagger": 0
+        },
+        {
+          "primary_isbn10": "0143116800",
+          "primary_isbn13": "9780143116806",
+          "rank": 22,
+          "list_name": "Paperback Nonfiction",
+          "display_name": "Paperback Nonfiction",
+          "published_date": "2010-06-27",
+          "bestsellers_date": "2010-06-13",
+          "weeks_on_list": 0,
+          "rank_last_week": 0,
+          "asterisk": 0,
+          "dagger": 0
+        },
+        {
+          "primary_isbn10": "0143116800",
+          "primary_isbn13": "9780143116806",
+          "rank": 32,
+          "list_name": "Paperback Nonfiction",
+          "display_name": "Paperback Nonfiction",
+          "published_date": "2010-06-20",
+          "bestsellers_date": "2010-06-06",
+          "weeks_on_list": 0,
+          "rank_last_week": 0,
+          "asterisk": 0,
+          "dagger": 0
+        },
+        {
+          "primary_isbn10": "0143116800",
+          "primary_isbn13": "9780143116806",
+          "rank": 27,
+          "list_name": "Paperback Nonfiction",
+          "display_name": "Paperback Nonfiction",
+          "published_date": "2010-06-13",
+          "bestsellers_date": "2010-05-30",
+          "weeks_on_list": 0,
+          "rank_last_week": 0,
+          "asterisk": 0,
+          "dagger": 0
+        },
+        {
+          "primary_isbn10": "0143116800",
+          "primary_isbn13": "9780143116806",
+          "rank": 28,
+          "list_name": "Paperback Nonfiction",
+          "display_name": "Paperback Nonfiction",
+          "published_date": "2010-06-06",
+          "bestsellers_date": "2010-05-23",
+          "weeks_on_list": 0,
+          "rank_last_week": 0,
+          "asterisk": 0,
+          "dagger": 0
+        },
+        {
+          "primary_isbn10": "0143116800",
+          "primary_isbn13": "9780143116806",
+          "rank": 35,
+          "list_name": "Paperback Nonfiction",
+          "display_name": "Paperback Nonfiction",
+          "published_date": "2010-05-30",
+          "bestsellers_date": "2010-05-16",
+          "weeks_on_list": 0,
+          "rank_last_week": 0,
+          "asterisk": 0,
+          "dagger": 0
+        },
+        {
+          "primary_isbn10": "0143116800",
+          "primary_isbn13": "9780143116806",
+          "rank": 22,
+          "list_name": "Paperback Nonfiction",
+          "display_name": "Paperback Nonfiction",
+          "published_date": "2010-05-16",
+          "bestsellers_date": "2010-05-02",
+          "weeks_on_list": 0,
+          "rank_last_week": 0,
+          "asterisk": 0,
+          "dagger": 0
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "https:\/\/www.nytimes.com\/2009\/01\/15\/books\/15masl.html",
+          "first_chapter_link": "",
+          "sunday_review_link": "https:\/\/www.nytimes.com\/2009\/02\/15\/books\/review\/Nocera-t.html",
+          "article_chapter_link": ""
+        }
+      ]
+    },
+    {
+      "title": "Millionaire : The Philanderer, Gambler, and Duelist Who Invented Modern Finance",
+      "description": null,
+      "contributor": null,
+      "author": "Janet Gleeson",
+      "contributor_note": null,
+      "price": "0.00",
+      "age_group": null,
+      "publisher": null,
+      "isbns": [
+        {
+          "isbn10": "0684872951",
+          "isbn13": "9780684872957"
+        }
+      ],
+      "ranks_history": [],
+      "reviews": [
+        {
+          "book_review_link": "",
+          "first_chapter_link": null,
+          "sunday_review_link": "https:\/\/www.nytimes.com\/2000\/07\/23\/books\/a-big-idea-about-money.html",
+          "article_chapter_link": null
+        }
+      ]
+    },
+    {
+      "title": "The Swiss, the Gold, and the Dead: How Swiss Bankers Helped Finance the Nazi War Machine",
+      "description": null,
+      "contributor": null,
+      "author": "Jean Ziegler",
+      "contributor_note": null,
+      "price": "0.00",
+      "age_group": null,
+      "publisher": null,
+      "isbns": [
+        {
+          "isbn10": "0140278583",
+          "isbn13": "9780140278583"
+        }
+      ],
+      "ranks_history": [],
+      "reviews": [
+        {
+          "book_review_link": "",
+          "first_chapter_link": null,
+          "sunday_review_link": "https:\/\/www.nytimes.com\/1998\/04\/05\/books\/gnomes-and-nazis.html",
+          "article_chapter_link": null
+        }
+      ]
+    }
+  ]
+}
